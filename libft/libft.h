@@ -15,6 +15,7 @@
 # define ABS(x) (x < 0 ? -x : x)
 # include <stdlib.h>
 # include <unistd.h>
+# include <stdlib.h>
 # include <string.h>
 
 char			*ft_strsubin(char *out, char **in, char c);
